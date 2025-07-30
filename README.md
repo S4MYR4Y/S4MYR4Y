@@ -14,9 +14,7 @@
 
 I'm actively working toward:  
 - **Containers & Orchestration**: Learning **Docker** and **Kubernetes**  
-- **Monitoring**: Basics of **Prometheus**, **Grafana**, or **ELK**  
-
-## 📂 Project Showcase  
+- **Monitoring**: Basics of **Prometheus**, **Grafana**, or **ELK**   
 
 *Open to collaborations, mentorship, and feedback! Let’s learn together.* 
 <!--
